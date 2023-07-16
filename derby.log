@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jul 08 16:29:53 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-dced-fca0-00000dcec788 
+on database directory D:\Documents\NetBeansProjects\PDMS w JAR File\PDMS\dbPDMS with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=D:\Documents\NetBeansProjects\PDMS w JAR File\PDMS
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
